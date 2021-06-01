@@ -13,9 +13,26 @@
   }
 } */
 .cake1{
-  background-color:rgb(226, 207, 213);
+ 
   text-align: center;
   width: 100%;
+}
+.cake4{
+  padding: 10px;
+}
+.cakes{
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+}
+.list{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+.cake-imeg{
+  width: 80%;
 }
 /* .App-header {
   background-color: #282c34;
