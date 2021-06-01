@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -11,13 +11,13 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
-}
-.Cake1 {
-  background-color: rgb(235, 213, 217);
+} */
+.cake1{
+  background-color:rgb(226, 207, 213);
   text-align: center;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 100%;
 }
-.App-header {
+/* .App-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -39,5 +39,4 @@
   to {
     transform: rotate(360deg);
   }
-}
- 
+} */
